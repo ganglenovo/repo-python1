@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="231e4942-11b2-4628-ac3b-9cfba2edd3ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/untitled-codinglianxi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20200113.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20200115.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20200119.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20200120.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20200121.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20200128.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20200130.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.pkl" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="yangtonggang" />
+        <option value="yang" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\gang\PycharmProjects\untitled-codinglianxi\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XW9aYOMhUlBIkbusw9k7XJi5RC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="231e4942-11b2-4628-ac3b-9cfba2edd3ed" name="Default Changelist" comment="" />
+      <created>1581151050549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581151050549</updated>
+      <workItem from="1581151086923" duration="83000" />
+      <workItem from="1581321651690" duration="23000" />
+      <workItem from="1581321806798" duration="8000" />
+      <workItem from="1581325341673" duration="817000" />
+      <workItem from="1581397583319" duration="2603000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="整个目录提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="整个目录提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1581430167628">
+      <screen x="0" y="0" width="1366" height="725" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.725@0.0.1366.725" timestamp="1581430167628" />
+    <state x="136" y="18" key="#TODO" timestamp="1581430011926">
+      <screen x="0" y="0" width="1366" height="725" />
+    </state>
+    <state x="136" y="18" key="#TODO/0.0.1366.725@0.0.1366.725" timestamp="1581430011926" />
+    <state x="323" y="0" key="CommitChangelistDialog2" timestamp="1581430579298">
+      <screen x="0" y="0" width="1366" height="725" />
+    </state>
+    <state x="323" y="0" key="CommitChangelistDialog2/0.0.1366.725@0.0.1366.725" timestamp="1581430579298" />
+    <state x="178" y="0" key="SettingsEditor" timestamp="1581428920443">
+      <screen x="0" y="0" width="1366" height="725" />
+    </state>
+    <state x="178" y="0" key="SettingsEditor/0.0.1366.725@0.0.1366.725" timestamp="1581428920443" />
+    <state x="366" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1581397592939">
+      <screen x="0" y="0" width="1366" height="725" />
+    </state>
+    <state x="366" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.725@0.0.1366.725" timestamp="1581397592939" />
+  </component>
+</project>
