@@ -125,7 +125,7 @@
       <workItem from="1581325341673" duration="817000" />
       <workItem from="1581397583319" duration="7048000" />
       <workItem from="1581473908489" duration="2862000" />
-      <workItem from="1581578431367" duration="4316000" />
+      <workItem from="1581578431367" duration="4950000" />
     </task>
     <task id="LOCAL-00001" summary="整个目录提交">
       <created>1581430624008</created>
@@ -141,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581587365942</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="tiaji:workspace.xml">
+      <created>1581588049812</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581588049812</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,7 +195,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="整个目录提交" />
     <MESSAGE value="提交增加ignore，修改20200113，" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交增加ignore，修改20200113，" />
+    <MESSAGE value="tiaji:workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="tiaji:workspace.xml" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Notifications" timestamp="1581430167628">
@@ -207,10 +215,10 @@
       <screen x="0" y="0" width="1366" height="723" />
     </state>
     <state x="381" y="154" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.723@0.0.1366.723" timestamp="1581586316358" />
-    <state x="323" y="0" key="CommitChangelistDialog2" timestamp="1581587364023">
+    <state x="323" y="0" key="CommitChangelistDialog2" timestamp="1581588700110">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state x="323" y="0" key="CommitChangelistDialog2/0.0.1366.723@0.0.1366.723" timestamp="1581587364023" />
+    <state x="323" y="0" key="CommitChangelistDialog2/0.0.1366.723@0.0.1366.723" timestamp="1581588700110" />
     <state x="323" y="0" key="CommitChangelistDialog2/0.0.1366.725@0.0.1366.725" timestamp="1581430622358" />
     <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1581585687548">
       <screen x="0" y="0" width="1366" height="723" />
