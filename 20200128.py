@@ -16,7 +16,7 @@ check(str, sub_str)
 logging.info(str)
 
 
-'''
+
 import re
 
 def Find(string):
@@ -26,28 +26,25 @@ def Find(string):
 string = 'Runoob 的网页地址为：https://www.runoob.com，Google 的网页地址为：https://www.google.com'
 print("Urls1: ", Find(string))
 print("Urls2: ", re.findall('https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+', string))
-'''
 
-'''
+
+
 def exec_code():
-    LOC = """
+    LOC = ""
+    
 def factorial(num):
     fact = 1
     for i in range(1, num+1):
         fact = fact*i  #1*1 1*2 2*3 6*4 24*5
     return fact
 print(factorial(5))
-"""
-    exec(LOC)
 exec_code()
 
-
 str='Runoob'
-
 print(str[::-1])
 print(''.join(reversed(str)))
 print(''.join(reversed('Runoob')))
-'''
+
 
 '''
 def dictionairy():
