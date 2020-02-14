@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="231e4942-11b2-4628-ac3b-9cfba2edd3ed" name="Default Changelist" comment="tiaji:workspace.xml">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="231e4942-11b2-4628-ac3b-9cfba2edd3ed" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +124,7 @@
       <workItem from="1581397583319" duration="7048000" />
       <workItem from="1581473908489" duration="2862000" />
       <workItem from="1581578431367" duration="6952000" />
-      <workItem from="1581646758739" duration="1798000" />
+      <workItem from="1581646758739" duration="2046000" />
     </task>
     <task id="LOCAL-00001" summary="整个目录提交">
       <created>1581430624008</created>
@@ -170,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581647463166</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="tiaji:workspace.xml">
+      <created>1581648792944</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1581648792944</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,9 +222,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="整个目录提交" />
     <MESSAGE value="提交增加ignore，修改20200113，" />
-    <MESSAGE value="tiaji:workspace.xml" />
     <MESSAGE value="null gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="null gitignore" />
+    <MESSAGE value="tiaji:workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="tiaji:workspace.xml" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Notifications" timestamp="1581430167628">
@@ -238,19 +243,20 @@
       <screen x="0" y="0" width="1366" height="723" />
     </state>
     <state x="381" y="154" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.723@0.0.1366.723" timestamp="1581586316358" />
-    <state x="323" y="0" key="CommitChangelistDialog2" timestamp="1581647460888">
+    <state x="323" y="0" key="CommitChangelistDialog2" timestamp="1581648790916">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state x="323" y="0" key="CommitChangelistDialog2/0.0.1366.723@0.0.1366.723" timestamp="1581647460888" />
+    <state x="323" y="0" key="CommitChangelistDialog2/0.0.1366.723@0.0.1366.723" timestamp="1581648790916" />
     <state x="323" y="0" key="CommitChangelistDialog2/0.0.1366.725@0.0.1366.725" timestamp="1581430622358" />
     <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1581585687548">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
     <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.723@0.0.1366.723" timestamp="1581585687548" />
     <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.725@0.0.1366.725" timestamp="1581474710039" />
-    <state x="399" y="255" width="562" height="216" key="Github.ShareDialog" timestamp="1581434868436">
-      <screen x="0" y="0" width="1366" height="725" />
+    <state x="399" y="254" width="562" height="306" key="Github.ShareDialog" timestamp="1581649079298">
+      <screen x="0" y="0" width="1366" height="723" />
     </state>
+    <state x="399" y="254" width="562" height="306" key="Github.ShareDialog/0.0.1366.723@0.0.1366.723" timestamp="1581649079298" />
     <state x="399" y="255" width="562" height="216" key="Github.ShareDialog/0.0.1366.725@0.0.1366.725" timestamp="1581434868436" />
     <state width="1310" height="158" key="GridCell.Tab.0.bottom" timestamp="1581586121295">
       <screen x="0" y="0" width="1366" height="723" />
@@ -273,10 +279,10 @@
     </state>
     <state x="128" y="0" key="SettingsEditor/0.0.1366.723@0.0.1366.723" timestamp="1581586080858" />
     <state x="178" y="0" key="SettingsEditor/0.0.1366.725@0.0.1366.725" timestamp="1581434949119" />
-    <state x="275" y="64" key="Vcs.Push.Dialog.v2" timestamp="1581648486317">
+    <state x="275" y="64" key="Vcs.Push.Dialog.v2" timestamp="1581648851749">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state x="275" y="64" key="Vcs.Push.Dialog.v2/0.0.1366.723@0.0.1366.723" timestamp="1581648486317" />
+    <state x="275" y="64" key="Vcs.Push.Dialog.v2/0.0.1366.723@0.0.1366.723" timestamp="1581648851749" />
     <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.725@0.0.1366.725" timestamp="1581435005552" />
     <state x="366" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1581646791974">
       <screen x="0" y="0" width="1366" height="723" />
