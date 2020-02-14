@@ -2,7 +2,8 @@
 # Author: yangtonggang
 # Filename: 20200128.py
 
-'''
+import logging
+
 #字符串是否存在子字符串
 def check(str, sub_str):
     if (str.find(sub_str)==-1):
@@ -12,7 +13,8 @@ def check(str, sub_str):
 str = 'www.runoob.com'
 sub_str = 'runoob'
 check(str, sub_str)
-'''
+logging.info(str)
+
 
 '''
 import re
